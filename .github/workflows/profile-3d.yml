@@ -8,14 +8,14 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-    name: generate_github-profile-3d-contrib
+    name: generate-github-profile-3d-contrib
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
       - name: Setup Node.js
         uses: actions/setup-node@v3
         with:
-          node-version: '18' # 最新のLTSバージョンを使用
+          node-version: '16' # 必要に応じてバージョンを変更
       - name: Generate 3D Profile
         uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
@@ -23,8 +23,8 @@ jobs:
           USERNAME: ${{ github.repository_owner }}
       - name: Commit & Push
         run: |
-          git config user.name github-actions
-          git config user.email github-actions@github.com
+          git config user.name tensey3
+          git config user.email kikuchitensei428@gmail.com
           git add -A .
           git commit -m "generated"
           git push
