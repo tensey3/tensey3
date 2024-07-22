@@ -1,11 +1,5 @@
 <h1 align="center">こんにちは👋、Tenseyです</h1>
-<h3 align="center">日本出身の情熱的なバックエンド開発者です。あんまり得意ではないけどフロントもいけます</h3>
-
-<p align="center">
-  <a href="https://twitter.com/sibawanwa" target="blank">
-    <img src="https://img.shields.io/twitter/follow/sibawanwa?logo=twitter&style=for-the-badge" alt="sibawanwa" />
-  </a>
-</p>
+<h3 align="center">I am a fledgling engineer from Japan! I'm more of a backend engineer.</h3>
 
 ---
 
@@ -103,8 +97,7 @@
 
 ---
 
-### GitHub 統計
-
+<h2 align="center">GitHub 統計</h2>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=tensey3&label=Profile%20views&color=0e75b6&style=flat" alt="tensey3" />
 </p>
@@ -136,4 +129,9 @@
 <p align="center">
   <img align="center" src="https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="repos-per-language" />
   <img align="center" src="https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="most-commit-language" />
+</p>
+<p align="center">
+  <a href="https://twitter.com/sibawanwa" target="blank">
+    <img src="https://img.shields.io/twitter/follow/sibawanwa?logo=twitter&style=for-the-badge" alt="sibawanwa" />
+  </a>
 </p>
