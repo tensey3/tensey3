@@ -3,19 +3,19 @@
 
 ---
 
-### 🔭 現在取り組んでいるプロジェクト
+<h2 align="center">🔭 現在取り組んでいるプロジェクト</h2>
 - [combo-traning](https://github.com/tensey3/combo_training.git)
 
-### 🧑‍🎓 年齢
+<h2 align="center">🧑‍🎓 年齢</h2>
 - 高校三年生
 
-### 🌱 学習中
+<h2 align="center">🌱 学習中</h2>
 - **JAVA silver**
 
-### 👨‍💻 私のプロジェクト
+<h2 align="center">📫 👨‍💻 My project</h2> 
 - [GitHub リポジトリ](https://github.com/tensey3)
 
-### 📫 連絡先
+<h2 align="center">📫 連絡先</h2> 
 - **kikuchitensei428@gmail.com**
 
 ---
