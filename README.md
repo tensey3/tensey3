@@ -20,7 +20,7 @@
 - 🔭 現在、[combo-traning](https://github.com/tensey3/combo_training.git) に取り組んでいます
 - 🧑‍🎓 現在、高校三年生やらせてもらってます
 - 🌱 現在、**JAVA silver** を学習しています
-- 👨‍💻 私のプロジェクトはすべて [https://github.com/tensey3/combo_training.git](https://github.com/tensey3) で入手できます
+- 👨‍💻 私のプロジェクトはすべて [https://github.com/tensey3](https://github.com/tensey3) で入手できます
 - 📫 連絡先 **kikuchitensei428@gmail.com**
 
 <h3 align="left">私とつながる:</h3>
