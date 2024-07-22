@@ -1,4 +1,4 @@
-<h1 align="center">Hi👋I'm Tensey</h1>
+<h1 align="center">こんにちは👋I'm Tensey</h1>
 <h3 align="center">I am a fledgling engineer from Japan! I'm more of a backend engineer.</h3>
 
 ---
@@ -7,7 +7,10 @@
 <p align="center">
   - <a href="https://github.com/tensey3/combo_training.git">Combo Training</a>
 </p>
-
+<h2 align="center">🇯🇵 from</h2>
+<p align="center">
+  - High School Senior (私は日本に住んでいます)
+</p>
 <h2 align="center">🧑‍🎓 Age</h2>
 <p align="center">
   - High School Senior (18 years old)
