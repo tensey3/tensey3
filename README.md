@@ -114,17 +114,15 @@
 ---
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tensey3&show_icons=true&locale=en&layout=compact" alt="tensey3" />
-</p>
-
-<p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=tensey3&show_icons=true&locale=en" alt="tensey3" />
 </p>
 
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tensey3&" alt="tensey3" />
 </p>
-
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tensey3&show_icons=true&locale=en&layout=compact" alt="tensey3" />
+</p>
 <p align="center">
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tensey3&theme=tokyonight&utcOffset=8" alt="productive-time" />
 </p>
