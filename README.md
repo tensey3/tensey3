@@ -42,9 +42,9 @@
 
 ---
 
-<h2 align="center">言語とツール</h2>
+### 言語とツール
 
-<h3 align="center">言語</h3>
+<h2 align="center">言語</h2>
 <p align="center">
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50" />
@@ -63,7 +63,7 @@
   </a>
 </p>
 
-<h3 align="center">フレームワーク</h3>
+<h2 align="center">フレームワーク</h2>
 <p align="center">
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="50" height="50" />
@@ -76,7 +76,7 @@
   </a>
 </p>
 
-<h3 align="center">データベース</h3>
+<h2 align="center">データベース</h2>
 <p align="center">
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50" />
@@ -86,7 +86,7 @@
   </a>
 </p>
 
-<h3 align="center">その他</h3>
+<h2 align="center">その他</h2>
 <p align="center">
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="50" height="50" />
@@ -137,10 +137,9 @@
 </p>
 
 <p align="center">
-  <img align="center" src="https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/tokyonight/1-repos-per-language.svg
+  <img align="center" src="https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="repos-per-language" />
   <img align="center" src="https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="most-commit-language" />
 </p>
-
 <p align="center">
   <a href="https://twitter.com/sibawanwa" target="blank">
     <img src="https://img.shields.io/twitter/follow/sibawanwa?logo=twitter&style=for-the-badge" alt="sibawanwa" />
