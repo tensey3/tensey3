@@ -14,7 +14,7 @@
   - 高校三年生
 </p>
 
-<h2 align="center">🌱 勉強中　　　while studying</h2>
+<h2 align="center">🌱 勉強中　while studying</h2>
 <p align="center">
   - <strong>JAVA silver</strong>
 </p>
