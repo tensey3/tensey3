@@ -1,5 +1,5 @@
 <h1 align="center">こんにちは👋、Tenseyです</h1>
-<h3 align="center">日本出身の情熱的なフロントエンド開発者</h3>
+<h3 align="center">日本出身の情熱的なバックエンド開発者です。あんまり徳ではないけどフロントもいけます</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=tensey3&label=Profile%20views&color=0e75b6&style=flat" alt="tensey3" />
