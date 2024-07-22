@@ -1,30 +1,43 @@
 <h1 align="center">こんにちは👋、Tenseyです</h1>
 <h3 align="center">日本出身の情熱的なバックエンド開発者です。あんまり得意ではないけどフロントもいけます</h3>
 
-<p align="left">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=tensey3&label=Profile%20views&color=0e75b6&style=flat" alt="tensey3" />
 </p>
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=tensey3" alt="tensey3" />
+    <img src="https://github-profile-trophy.vercel.app/?username=tensey3&theme=onedark" alt="tensey3" />
   </a>
 </p>
 
-<p align="left">
+<p align="center">
   <a href="https://twitter.com/sibawanwa" target="blank">
     <img src="https://img.shields.io/twitter/follow/sibawanwa?logo=twitter&style=for-the-badge" alt="sibawanwa" />
   </a>
 </p>
 
-- 🔭 現在、[combo-traning](https://github.com/tensey3/combo_training.git) に取り組んでいます
-- 🧑‍🎓 現在、高校三年生やらせてもらってます
-- 🌱 現在、**JAVA silver** を学習しています
-- 👨‍💻 私のプロジェクトはすべて [https://github.com/tensey3](https://github.com/tensey3) で入手できます
-- 📫 連絡先 **kikuchitensei428@gmail.com**
+---
 
-<h3 align="left">私とつながる:</h3>
-<p align="left">
+### 🔭 現在取り組んでいるプロジェクト
+- [combo-traning](https://github.com/tensey3/combo_training.git)
+
+### 🧑‍🎓 学生生活
+- 高校三年生
+
+### 🌱 学習中
+- **JAVA silver**
+
+### 👨‍💻 私のプロジェクト
+- [GitHub リポジトリ](https://github.com/tensey3)
+
+### 📫 連絡先
+- **kikuchitensei428@gmail.com**
+
+---
+
+### 私とつながる
+<p align="center">
   <a href="https://twitter.com/sibawanwa" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sibawanwa" height="30" width="40" />
   </a>
@@ -33,8 +46,10 @@
   </a>
 </p>
 
-<h3 align="left">言語とツール:</h3>
-<p align="left">
+---
+
+### 言語とツール
+<p align="center">
   <a href="https://developer.android.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40" />
   </a>
@@ -82,8 +97,16 @@
   </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tensey3&show_icons=true&locale=en&layout=compact" alt="tensey3" /></p>
+---
 
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=tensey3&show_icons=true&locale=en" alt="tensey3" /></p>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tensey3&show_icons=true&locale=en&layout=compact" alt="tensey3" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tensey3&" alt="tensey3" /></p>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tensey3&show_icons=true&locale=en" alt="tensey3" />
+</p>
+
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tensey3&" alt="tensey3" />
+</p>
