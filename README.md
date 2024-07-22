@@ -3,20 +3,31 @@
 
 ---
 
+
 <h2 align="center">🔭 現在取り組んでいるプロジェクト</h2>
-- [combo-traning](https://github.com/tensey3/combo_training.git)
+<p align="center">
+  - <a href="https://github.com/tensey3/combo_training.git">combo-traning</a>
+</p>
 
 <h2 align="center">🧑‍🎓 年齢</h2>
-- 高校三年生
+<p align="center">
+  - 高校三年生
+</p>
 
 <h2 align="center">🌱 学習中</h2>
-- **JAVA silver**
+<p align="center">
+  - <strong>JAVA silver</strong>
+</p>
 
-<h2 align="center">📫 👨‍💻 My project</h2> 
-- [GitHub リポジトリ](https://github.com/tensey3)
+<h2 align="center">👨‍💻 私のプロジェクト</h2>
+<p align="center">
+  - <a href="https://github.com/tensey3">GitHub リポジトリ</a>
+</p>
 
-<h2 align="center">📫 連絡先</h2> 
-- **kikuchitensei428@gmail.com**
+<h2 align="center">📫 連絡先</h2>
+<p align="center">
+  - <strong>kikuchitensei428@gmail.com</strong>
+</p>
 
 ---
 
