@@ -1,30 +1,30 @@
-<h1 align="center">こんにちは👋、Tenseyです</h1>
+<h1 align="center">Hi👋I'm Tensey</h1>
 <h3 align="center">I am a fledgling engineer from Japan! I'm more of a backend engineer.</h3>
 
 ---
 
 
-<h2 align="center">🔭 現在取り組んでいるプロジェクト</h2>
+<h2 align="center">🔭 今進めているプロジェクトProjects currently being worked on</h2>
 <p align="center">
   - <a href="https://github.com/tensey3/combo_training.git">combo-traning</a>
 </p>
 
-<h2 align="center">🧑‍🎓 年齢</h2>
+<h2 align="center">🧑‍🎓 年齢  old</h2>
 <p align="center">
   - 高校三年生
 </p>
 
-<h2 align="center">🌱 学習中</h2>
+<h2 align="center">🌱 勉強中　　　while studying</h2>
 <p align="center">
   - <strong>JAVA silver</strong>
 </p>
 
-<h2 align="center">👨‍💻 私のプロジェクト</h2>
+<h2 align="center">👨‍💻 My project</h2>
 <p align="center">
   - <a href="https://github.com/tensey3">GitHub リポジトリ</a>
 </p>
 
-<h2 align="center">📫 連絡先</h2>
+<h2 align="center">📫 連絡先  Tell</h2>
 <p align="center">
   - <strong>kikuchitensei428@gmail.com</strong>
 </p>
