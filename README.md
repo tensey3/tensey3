@@ -4,3 +4,5 @@
 [![My Skills](https://skillicons.dev/icons?i=java,py,django,flutter,dart,html,css,aws,docker,firebase,mysql)](https://skillicons.dev)
 
 ![](https://komarev.com/ghpvc/?username=tensey3&color=blueviolet)
+
+profile-3d-contrib/profile-gitblock.svg
