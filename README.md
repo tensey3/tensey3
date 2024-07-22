@@ -36,13 +36,13 @@
 
 ---
 
-### SNS
+<h2 align="center">SNS</h2>
 <p align="center">
   <a href="https://twitter.com/sibawanwa" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sibawanwa" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sibawanwa" height="50" width="50" />
   </a>
   <a href="https://discord.gg/_nullmer" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="_nullmer" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="_nullmer" height="50" width="50" />
   </a>
 </p>
 
