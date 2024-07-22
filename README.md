@@ -22,7 +22,7 @@
 ### 🔭 現在取り組んでいるプロジェクト
 - [combo-traning](https://github.com/tensey3/combo_training.git)
 
-### 🧑‍🎓　年齢
+### 🧑‍🎓 年齢
 - 高校三年生
 
 ### 🌱 学習中
@@ -113,11 +113,10 @@
 
 ---
 
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tensey3&show_icons=true&locale=en&layout=compact" alt="tensey3" />
-</p>
+### GitHub 統計
 
 <p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tensey3&show_icons=true&locale=en&layout=compact" alt="tensey3" />
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=tensey3&show_icons=true&locale=en" alt="tensey3" />
 </p>
 
@@ -131,9 +130,6 @@
 
 <p align="center">
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tensey3&theme=tokyonight&utcOffset=8" alt="productive-time" />
-</p>
-
-<p align="center">
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tensey3&theme=tokyonight&exclude=html,css" alt="most-commit-language" />
 </p>
 
