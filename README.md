@@ -124,12 +124,15 @@
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tensey3&" alt="tensey3" />
 </p>
+
 <p align="center">
-http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username={username}&theme={theme_name}&utcOffset={utcOffset}
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tensey3&theme=tokyonight&utcOffset=8" alt="productive-time" />
 </p>
+
 <p align="center">
-http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username={username}&theme={theme_name}&exclude={exclude}
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tensey3&theme=tokyonight&exclude=html,css" alt="most-commit-language" />
 </p>
+
 <p align="center">
-https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/tokyonight/0-profile-details.svg
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tensey3&theme=tokyonight" alt="profile-details" />
 </p>
