@@ -22,7 +22,7 @@
 ### 🔭 現在取り組んでいるプロジェクト
 - [combo-traning](https://github.com/tensey3/combo_training.git)
 
-### 🧑‍🎓 学生生活
+### 🧑‍🎓　年齢
 - 高校三年生
 
 ### 🌱 学習中
