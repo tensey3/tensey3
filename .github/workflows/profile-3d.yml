@@ -10,10 +10,6 @@ jobs:
     runs-on: ubuntu-latest
     name: generate-github-profile-3d-contrib
     steps:
-      - name: Set up Node.js
-        uses: actions/setup-node@v3
-        with:
-          node-version: '20'
       - uses: actions/checkout@v3
       - uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
@@ -21,8 +17,8 @@ jobs:
           USERNAME: ${{ github.repository_owner }}
       - name: Commit & Push
         run: |
-          git config --global user.name tensey3
-          git config --global user.email kikuchitensei428@gmail.com
+          git config user.name tensey3
+          git config user.email kikuchitensei428@gmail.com
           git add -A .
           git commit -m "generated"
           git push
