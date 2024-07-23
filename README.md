@@ -158,21 +158,27 @@ export interface NormalColorSettings {
     contribColors: [string, string, string, string, string];
 }
 
-export interface SeasonColorSettings {
-    type: 'season';
-    backgroundColor: string;
-    foregroundColor: string;
-    strongColor: string;
-    weakColor: string;
-    radarColor: string;
+name: GitHub-Profile-3D-Contrib
 
-    contribColors1: [string, string, string, string, string];
-    contribColors2: [string, string, string, string, string];
-    contribColors3: [string, string, string, string, string];
-    contribColors4: [string, string, string, string, string];
-}
+on:
+  schedule: # 03:00 JST == 18:00 UTC
+    - cron: "0 18 * * *"
+  workflow_dispatch:
 
-export type Settings =
-    | NormalColorSettings
-    | SeasonColorSettings;
-
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate-github-profile-3d-contrib
+    steps:
+      - uses: actions/checkout@v3
+      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+      - name: Commit & Push
+        run: |
+          git config user.name tensey3
+          git config user.email kikuchitensei428@gmail.com
+          git add -A .
+          git commit -m "generated"
+          git push
