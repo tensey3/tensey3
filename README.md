@@ -147,3 +147,32 @@
     <img src="https://img.shields.io/twitter/follow/sibawanwa?logo=twitter&style=for-the-b
 </p>
 ```
+export interface NormalColorSettings {
+    type: 'normal';
+    backgroundColor: string;
+    foregroundColor: string;
+    strongColor: string;
+    weakColor: string;
+    radarColor: string;
+
+    contribColors: [string, string, string, string, string];
+}
+
+export interface SeasonColorSettings {
+    type: 'season';
+    backgroundColor: string;
+    foregroundColor: string;
+    strongColor: string;
+    weakColor: string;
+    radarColor: string;
+
+    contribColors1: [string, string, string, string, string];
+    contribColors2: [string, string, string, string, string];
+    contribColors3: [string, string, string, string, string];
+    contribColors4: [string, string, string, string, string];
+}
+
+export type Settings =
+    | NormalColorSettings
+    | SeasonColorSettings;
+
