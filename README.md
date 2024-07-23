@@ -147,38 +147,5 @@
     <img src="https://img.shields.io/twitter/follow/sibawanwa?logo=twitter&style=for-the-b
 </p>
 ```
-export interface NormalColorSettings {
-    type: 'normal';
-    backgroundColor: string;
-    foregroundColor: string;
-    strongColor: string;
-    weakColor: string;
-    radarColor: string;
 
-    contribColors: [string, string, string, string, string];
-}
-
-name: GitHub-Profile-3D-Contrib
-
-on:
-  schedule: # 03:00 JST == 18:00 UTC
-    - cron: "0 18 * * *"
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    name: generate-github-profile-3d-contrib
-    steps:
-      - uses: actions/checkout@v3
-      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          USERNAME: ${{ github.repository_owner }}
-      - name: Commit & Push
-        run: |
-          git config user.name tensey3
-          git config user.email kikuchitensei428@gmail.com
-          git add -A .
-          git commit -m "generated"
-          git push
+![](./profile-3d-contrib/profile-green-animate.svg)
