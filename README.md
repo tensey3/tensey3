@@ -9,7 +9,7 @@
 </p>
 <h2 align="center">🇯🇵 from</h2>
 <p align="center">
-  - I live in Japan (私は日本に住んでいます)
+  - I live in Japan
 </p>
 <h2 align="center">🧑‍🎓 Age</h2>
 <p align="center">
