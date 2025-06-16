@@ -1,38 +1,3 @@
-<h1 align="center">こんにちは👋I'm Tensey</h1>
-<h3 align="center">I am a fledgling engineer from Japan! I'm more of a backend engineer.</h3>
-
----
-
-<h2 align="center">🔭 Current Projects</h2>
-<p align="center">
-  - <a href="https://github.com/tensey3/combo_training.git">Combo Training</a>
-</p>
-<h2 align="center">🇯🇵 from</h2>
-<p align="center">
-  - I live in Japan
-</p>
-<h2 align="center">🧑‍🎓 Age</h2>
-<p align="center">
-  - High School Senior (18 years old)
-</p>
-
-<h2 align="center">🌱 Currently Learning</h2>
-<p align="center">
-  - <strong>JAVA Silver Certification</strong>
-</p>
-
-<h2 align="center">👨‍💻 My Projects</h2>
-<p align="center">
-  - <a href="https://github.com/tensey3">My GitHub Repository</a>
-</p>
-
-<h2 align="center">📫 Contact</h2>
-<p align="center">
-  - <strong>kikuchitensei428@gmail.com</strong>
-</p>
-
----
-
 <h2 align="center">Social Media</h2>
 <p align="center">
   <a href="https://twitter.com/sibawanwa" target="blank">
