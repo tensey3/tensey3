@@ -107,7 +107,10 @@
   <img align="center" src="https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="most-commit-language" />
 </p>
 
-
+<p align="center">
+  <a href="https://twitter.com/sibawanwa" target="blank">
+    <img src="https://img.shields.io/twitter/follow/sibawanwa?logo=twitter&style=for-the-b
+</p>
 ```
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
